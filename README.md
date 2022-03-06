@@ -62,5 +62,3 @@ Hosting URL: https://fir-app-88ea3.web.app
 - https://fir-app-88ea3.web.app/
 - https://fir-app-88ea3.firebaseapp.com/
 
-`After deploying an app (not this one), I was constantly getting the welcome screen instead of my app index.html file, however, this article helped me out`
-> https://programmerdost.com/fix-welcome-screen-react-firebase/
